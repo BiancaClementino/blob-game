@@ -1,0 +1,28 @@
+{
+  "name": "blob-game",
+  "version": "1.0.0",
+  "description": "A Fun Blob Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiancaClementino/blob-game.git"
+  },
+  "keywords": [
+    "blolb",
+    "p5",
+    "js"
+  ],
+  "author": "Bianca Clementino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiancaClementino/blob-game/issues"
+  },
+  "homepage": "https://github.com/BiancaClementino/blob-game#readme",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
